@@ -1,5 +1,4 @@
-github始めたて
-
-アカウント作成して時間が経った後に使い出した
 
 全てのリポジトリがプライベート
+ネズミtodolist作成中
+https://mouse-todolist.netlify.app/
